@@ -1,41 +1,34 @@
-# Website
+# XJTLU Guide 西浦生活指南
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+本仓库是西交利物浦大学生活指南的源码
 
-### Installation
+## 贡献
+### 贡献网站内容
 
-```
-$ yarn
-```
 
-### Local Development
+### 参与网站建设
+#### 安装 Installation
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```shell
+npm install # or yarn
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+#### 本地预览 Local Development
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```shell
+npm start # or yarn start
 ```
 
-Not using SSH:
+#### 构建 Build
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```shell
+npm build # or yarn build
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+#### 部署 Deployment
+
+
+-----
+
+Power by [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
