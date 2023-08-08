@@ -1,3 +1,7 @@
+# :warning: 该项目迁移至[XJTLU Wiki](https://github.com/renailu/wiki.xjtlu), https://wiki.xjt.lu
+
+—-----
+
 # XJTLU Guide 西浦生活指南
 
 当前网站人在积极开发中, 方向包括
